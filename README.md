@@ -9,4 +9,5 @@ Zombies Live
 Soldiers Poem
 
 Soldiers Struggle
-Soldiers Ruffle 
+Soldiers Run
+Soldiers Gun
